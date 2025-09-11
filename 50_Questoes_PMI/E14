@@ -1,0 +1,2 @@
+ValorProduto=float(input("Informe o valor do produto"))
+Desconto=float(input("Informe o desconto do produto"))
