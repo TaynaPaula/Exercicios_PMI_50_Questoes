@@ -13,5 +13,6 @@ anos=anoatual-ano
 dias=diaAtual-dia
 
 idade=(anos*365)+(meses*31)+dias
-
 print(f"Sua idade em dias é: {idade} dias")
+
+#ok 
