@@ -7,3 +7,5 @@ try:
     print("A soma dos Valores é:",Soma)
 except ValueError:
      print("Erro: Por favor, insira um número válido.") 
+     
+     #ok

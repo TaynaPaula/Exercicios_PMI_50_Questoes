@@ -7,3 +7,5 @@ try:
     print("Média:", media)
 except ValueError:
     print("Erro: digite apenas números nas notas.")
+
+#ok

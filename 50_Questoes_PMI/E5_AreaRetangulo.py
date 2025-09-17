@@ -6,3 +6,5 @@ try:
    print(f"A área de um retângulo de base {C} e altura {H} é: {Area}")
 except ValueError:
     print("Erro: Por favor, insira um número válido.")
+
+    #ok

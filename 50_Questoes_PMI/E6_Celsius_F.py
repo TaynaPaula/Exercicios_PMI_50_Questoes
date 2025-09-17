@@ -5,3 +5,5 @@ try:
     print(f"A temperatura {temperatura}°C em Fahrenheit é: {F:.2f}°F")
 except ValueError:
     print("Erro: Por favor, insira um número válido.")  
+
+    #ok
