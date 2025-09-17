@@ -1,6 +1,9 @@
 #Crie um programa que calcule a média de três notas.
-B1=float(input("Digite a nota do 1º bimestre: "))
-B2=float(input("Digite a nota do 2º bimestre: "))       
-B3=float(input("Digite a nota do 3º bimestre: "))
-Media=(B1+B2+B3)/3
-print(f"A média das notas é: {Media:.2f}")
+try:
+    n1 = float(input("Digite a 1ª nota: "))
+    n2 = float(input("Digite a 2ª nota: "))
+    n3 = float(input("Digite a 3ª nota: "))
+    media = (n1 + n2 + n3) / 3
+    print("Média:", media)
+except ValueError:
+    print("Erro: digite apenas números nas notas.")
