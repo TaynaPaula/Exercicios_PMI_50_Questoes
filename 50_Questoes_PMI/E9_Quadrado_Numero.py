@@ -5,5 +5,3 @@ try:
     print(f"O quadrado do número {A} é {Quadrado}")
 except ValueError:
     print("Erro: Por favor, insira um número válido.")
-
-#ok

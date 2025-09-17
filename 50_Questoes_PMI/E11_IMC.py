@@ -9,4 +9,3 @@ except ValueError:
 except ZeroDivisionError:
     print("Erro: a altura não pode ser zero!")
 
-#ok

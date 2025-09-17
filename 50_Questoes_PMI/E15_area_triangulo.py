@@ -8,4 +8,3 @@ except ValueError:
     print("Erro: Por favor, insira um número válido.")
 
 
-#ok

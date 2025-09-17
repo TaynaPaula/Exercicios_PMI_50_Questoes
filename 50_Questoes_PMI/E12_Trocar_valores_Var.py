@@ -8,4 +8,3 @@ y=xn
 print(f"O novo valor de x é {x}")   
 print(f"O novo valor de y é {y}")
 
-#ok

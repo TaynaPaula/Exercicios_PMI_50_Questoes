@@ -7,5 +7,3 @@ try:
     print("Perímetro do círculo:", perimetro)
 except ValueError:
     print("Erro: valor inválido para raio.")
-
-#ok

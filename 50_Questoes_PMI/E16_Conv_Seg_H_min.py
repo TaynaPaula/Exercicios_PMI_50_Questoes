@@ -8,4 +8,3 @@ try:
 except ValueError:
     print("Erro: digite um valor inteiro de segundos.")
 
-#ok

@@ -21,5 +21,3 @@ print(f"t fatiado (::5) = {t[::5]} | tipo = {type(t)}")        # de 5 em 5
 print(f"A = {A} | tipo = {type(A)}")
 print(f"not A = {not A} | tipo = {type(not A)}")
 
-
-#ok
