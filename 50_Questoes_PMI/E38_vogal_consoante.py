@@ -1,6 +1,6 @@
 #Escreva um programa que verifique se um caractere é vogal ou consoante.
 try:
-    Letra = input("Digite uma letra: ").strip()  # remove espaços extras
+    Letra = input("Digite uma letra: ").strip() 
 
     if len(Letra) != 1 or not Letra.isalpha():
         print("Valor inválido! Digite apenas uma letra.")
